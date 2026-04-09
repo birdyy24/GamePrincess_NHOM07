@@ -50,3 +50,13 @@ Mở project bằng IntelliJ IDEA hoặc các Java IDE khác.
 Chạy file Main.java để bắt đầu trải nghiệm.
 
 📸 Ảnh chụp màn hình (Screenshots)
+### 🖼️ Danh sách tài nguyên Game:
+
+**1. Giao diện chính:**
+![Interface](src/assets/interface.jpg)
+
+**2. Menu Game:**
+![Menu](src/assets/menugame.jpg)
+
+**3. Bảng thành tích :**
+![Achievement](src/assets/achievement.png)
